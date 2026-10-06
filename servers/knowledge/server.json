@@ -4,7 +4,7 @@
   "title": "Soracom Knowledge",
   "description": "Search SORACOM documentation: service guides, FAQ, API references, IoT recipes, etc.",
   "version": "1.1.4",
-  "websiteUrl": "https://developers.soracom.io/en/docs/tools/knowledge-mcp-server/",
+  "websiteUrl": "https://docs.soracom.io/en/developers/knowledge-mcp-server",
   "repository": {
     "url": "https://github.com/soracom/mcp",
     "source": "github",

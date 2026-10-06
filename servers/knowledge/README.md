@@ -99,4 +99,4 @@ codex mcp list
 
 ---
 
-This page mirrors the official documentation: [English](https://developers.soracom.io/en/docs/tools/knowledge-mcp-server/) | [Japanese](https://users.soracom.io/ja-jp/tools/soracom-knowledge-mcp-server/). Registry: `com.soracom/knowledge` on the [Official MCP Registry](https://registry.modelcontextprotocol.io).
+This page mirrors the official documentation: [English](https://docs.soracom.io/en/developers/knowledge-mcp-server) | [Japanese](https://users.soracom.io/ja-jp/tools/soracom-knowledge-mcp-server/). Registry: `com.soracom/knowledge` on the [Official MCP Registry](https://registry.modelcontextprotocol.io).

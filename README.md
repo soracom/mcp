@@ -10,7 +10,7 @@ Official catalog of remote [Model Context Protocol (MCP)](https://modelcontextpr
 
 | Server | Registry name | Endpoint | Auth | Docs |
 |---|---|---|---|---|
-| Soracom Knowledge MCP Server | `com.soracom/knowledge` | `https://knowledge-mcp.soracom.com` | None | [servers/knowledge](servers/knowledge/) · [EN](https://developers.soracom.io/en/docs/tools/knowledge-mcp-server/) · [JA](https://users.soracom.io/ja-jp/tools/soracom-knowledge-mcp-server/) |
+| Soracom Knowledge MCP Server | `com.soracom/knowledge` | `https://knowledge-mcp.soracom.com` | None | [servers/knowledge](servers/knowledge/) · [EN](https://docs.soracom.io/en/developers/knowledge-mcp-server) · [JA](https://users.soracom.io/ja-jp/tools/soracom-knowledge-mcp-server/) |
 
 All servers are published to the [Official MCP Registry](https://registry.modelcontextprotocol.io) under the `com.soracom` namespace. To verify:
 
