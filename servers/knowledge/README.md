@@ -17,7 +17,7 @@ Searches Soracom service guides, Soracom User Console procedures, service overvi
 | Parameter | Description |
 |---|---|
 | `query` | A natural-language search query (required). |
-| `document_names` | Restricts the search to specific sites (e.g., `["developers.soracom.io", "users.soracom.io"]`). The available sites are listed in the tool schema. Omit it to search all sources. |
+| `document_names` | Restricts the search to specific sites (e.g., `["docs.soracom.io", "users.soracom.io"]`). The available sites are listed in the tool schema. Omit it to search all sources. |
 | `search_mode` | `hybrid` (default; combines keyword and semantic search), `keyword` (keyword search only), or `semantic` (semantic similarity only). |
 | `language` | `English` or `Japanese`. Auto-detected from the query when omitted. |
 | `max_results` | Number of results to return. Default 16, maximum 32. |
@@ -99,4 +99,4 @@ codex mcp list
 
 ---
 
-This page mirrors the official documentation: [English](https://developers.soracom.io/en/docs/tools/knowledge-mcp-server/) | [Japanese](https://users.soracom.io/ja-jp/tools/soracom-knowledge-mcp-server/). Registry: `com.soracom/knowledge` on the [Official MCP Registry](https://registry.modelcontextprotocol.io).
+This page mirrors the official documentation: [English](https://docs.soracom.io/en/developers/knowledge-mcp-server) | [Japanese](https://users.soracom.io/ja-jp/tools/soracom-knowledge-mcp-server/). Registry: `com.soracom/knowledge` on the [Official MCP Registry](https://registry.modelcontextprotocol.io).
